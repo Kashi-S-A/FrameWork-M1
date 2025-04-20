@@ -1,0 +1,21 @@
+package com.ty;
+
+import java.util.List;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.OneToMany;
+
+@Entity
+public class Author {
+
+	@Id
+	private int aid;
+	private String name;
+	private String email;
+	
+	@OneToMany
+	private List<Book> books;
+	
+	
+}

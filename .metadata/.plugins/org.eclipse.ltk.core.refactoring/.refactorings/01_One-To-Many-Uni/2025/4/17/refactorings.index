@@ -1,0 +1,6 @@
+1745126030864	Rename resource 'peristence.xml'
+1745126370416	Extract local variable 'emf'
+1745126377548	Extract local variable 'em'
+1745126896363	Extract local variable 'author'
+1745126951559	Extract local variable 'books'
+1745128090736	Copy folder
