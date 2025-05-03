@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.ty.Author"><rhs name\="com.ty.Author"/></lhs><lhs name\="com.ty.Book"><rhs name\="com.ty.Book"/></lhs><lhs name\="com.ty.Review"><rhs name\="com.ty.Review"/></lhs><lhs name\="com.ty.Product"><rhs name\="com.ty.Product"/></lhs><lhs name\="com.ty.Subject"><rhs name\="com.ty.Subject"/></lhs><lhs name\="com.ty.Engine"><rhs name\="com.ty.Engine"/></lhs></history>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="com.ty.Author"><rhs name\="com.ty.Author"/></lhs><lhs name\="com.ty.Book"><rhs name\="com.ty.Book"/></lhs><lhs name\="com.ty.Review"><rhs name\="com.ty.Review"/></lhs><lhs name\="com.ty.Product"><rhs name\="com.ty.Product"/></lhs><lhs name\="com.ty.Subject"><rhs name\="com.ty.Subject"/></lhs><lhs name\="com.ty.Engine"><rhs name\="com.ty.Engine"/></lhs><lhs name\="com.ty.User"><rhs name\="com.ty.User"/></lhs></history>
 content_assist_number_of_computers=17
 content_assist_proposals_background=255,255,255
 content_assist_proposals_foreground=0,0,0
